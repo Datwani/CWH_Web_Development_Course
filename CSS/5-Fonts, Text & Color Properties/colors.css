@@ -1,0 +1,25 @@
+h1{
+    color: orange ;
+}
+h2{
+    /* hex Color code */
+    color: #0bee0b;
+}
+h3{
+    /* RGB */
+color: rgb(186, 12, 145);
+}
+h4{
+    /* RGBA */
+color: rgba(14, 61, 179, 0.817);
+}
+h5{
+/* HSL */
+color: hsl(300, 74%, 29%);
+}
+h6{
+    background-color: #0bee0b;
+}
+p,ol{
+    background-color: aqua;
+}
