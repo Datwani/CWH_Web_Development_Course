@@ -1,0 +1,12 @@
+.box{
+    border: 2px solid blue;
+    padding: 34px;
+    box-shadow: 4px 7px 5px green;
+    border-radius: 50px;
+
+}
+.text{
+    text-shadow: 4px 7px 5px rgb(74, 46, 255);
+    border: 2px solid green;
+    border-radius: 10px;
+}

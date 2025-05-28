@@ -1,0 +1,14 @@
+nav ul li{
+    /* list-style: devanagari;
+     list-style-type: "*"; 
+    background-color: yellow;
+    list-style-position: inside;
+    border: 2px solid black;
+    list-style-image: url();
+    list-style: disc inside url(./peter-griffin-feature-photo-1200-x-630.avif); */
+    list-style: none;
+    padding: 23px;
+}
+ul{ 
+     display: flex;
+}
